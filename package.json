@@ -36,5 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "https://pothole-detection-service-1072958251075.asia-southeast1.run.app"
 }
